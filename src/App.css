@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.heading{
+  padding: 25px;
+}
+
+.main-container{
+  padding-top: 25px;
+  text-align: center;
+  vertical-align: center;
+  font-size: 25px;
+}
+
+.button-container{
+  padding-top: 25px;
+  padding-left: 300px;
+  padding-right: 300px;
+  display: flex;
+  justify-content: space-evenly;
+}
